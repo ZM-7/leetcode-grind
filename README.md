@@ -1,0 +1,2 @@
+# Leetcode Exercises Repository
+**Welcome to my Personal Exercises repository!** This repository contains a collection of coding exercises, challenges, and practice problems that I have worked on to improve my programming skills. The exercises span various topics, programming languages, and difficulty levels. The primary goal of this repository is to serve as a learning tool and a reference for myself. (I hope)
